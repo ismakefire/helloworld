@@ -2,7 +2,10 @@
 public class HelloWorldMain {
 
 	public static void main(String[] args) {
-		System.out.println("Sup world");
+		
+		// Actually print hello world
+		String textToPrint = "Hello World!";
+		System.out.println(textToPrint);
 	}
 
 }
